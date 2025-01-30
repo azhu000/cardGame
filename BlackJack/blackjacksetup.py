@@ -1,4 +1,4 @@
-import card as cds
+import Cards.card as cds
 
 def initializeGame(deckCount=4):
         # initialize deck

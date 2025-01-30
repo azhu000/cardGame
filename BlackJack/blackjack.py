@@ -1,5 +1,5 @@
-import card as cds
-import blackjacksetup as bjs
+import Cards.card as cds
+import BlackJack.blackjacksetup as bjs
 
 # the blackjack game
 
