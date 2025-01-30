@@ -1,4 +1,7 @@
-import Cards.card as cds
+# from Cards import card as cds
+import sys
+
+sys.path.append('/Users/anthonyzhu/Desktop/cards')
 import BlackJack.blackjacksetup as bjs
 
 # the blackjack game
